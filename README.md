@@ -26,4 +26,4 @@ Descriptive Statistics: The script calculates total rows, unique companies, and 
 
 Correlation Analysis: A correlation between total layoffs and percentage laid off is computed to understand relationships within the data.
 
-This structured approach ensures that the dataset is clean and ready for further analysis. If you need specific details or visualizations from any of these steps, please let me know!
+
